@@ -15,6 +15,10 @@ if(a[i]==a[j])
 {
 printf("%d",a[i]);
 }
+else
+{
+printf("Unique");
+}
 }
 }
 return 0;
